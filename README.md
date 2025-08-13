@@ -15,13 +15,11 @@
 
 <div align="center">
 <table>
-  <tr>
     <td align="center">
       <a href="https://www.youtube.com/@HarshvardhanPatil-n9i" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40HarshvardhanPatil-n9i&subtitle=@HarshvardhanPatil-n9i&size=square" alt="Harshvardhan Patil">
       </a>
     </td>
-  </tr>
 </table>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
