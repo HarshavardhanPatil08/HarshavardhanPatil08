@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+ | PCB DESINGNER | Coder | 
 </p>
 
 <div align="center">
