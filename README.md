@@ -27,12 +27,11 @@
   </a>
 </td>
    
-   <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <td align="center">
+  <a href="https://github.com/HarshavardhanPatil08" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FHarshavardhanPatil08&subtitle=HarshavardhanPatil08&size=square" alt="HarshavardhanPatil08">
   </a>
 </td>
-
   </tr>
 </table>
 
